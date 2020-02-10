@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Button App</string>
+    <string name="hard_coded_string_name"> coolHardCodedStringValue </string>
+    <string name="click_button">Submit</string>
+    <string name="color_hint">color_hint</string>
+    <string-array
+        name="numbers">
+        <item
+            >Mercury</item>
+        <item
+            >Venus</item>
+        <item
+            >Earth</item>
+        <item
+            >Mars</item>
+    </string-array>
+</resources>
+
